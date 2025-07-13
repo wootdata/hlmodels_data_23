@@ -20,14 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "Punisher/Punisher",
-					"polys": 766,
-					"verts": 386
-				}, 
-				{
-					"name": "Punisher/Punisher",
-					"polys": 766,
-					"verts": 386
+					"name": "Ghost2099",
+					"polys": 1276,
+					"verts": 654
 				}
 			],
 			"name": "body"
@@ -68,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098019800,
+	"date": 1098021600,
 	"events": [
 		{
 			"event": 2001,
@@ -177,10 +172,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "63825d53e6d1537dc4af620ffd6e3af4",
+	"md5": "f6a88fefb3c00244f4cddccdba929430",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "i:/hlsdk/playermodels/player/Punisher/Punisher.mdl",
+	"name": "D:\\Jeux\\Half-Life\\valve\\models\\Ghost2099\\Ghost2099.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -571,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 320512,
+	"size": 321296,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -692,8 +687,20 @@
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "punisher.BMP",
+			"name": "Ghost2099.bmp",
 			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "crome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "Flames.bmp",
+			"width": 64
 		}
 	],
 	"version": 10

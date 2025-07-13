@@ -33,7 +33,7 @@
 			"name": "body"
 		}
 	],
-	"colorable": false,
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098019800,
+	"date": 1569082454,
 	"events": [
 		{
 			"event": 2001,
@@ -177,12 +177,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "63825d53e6d1537dc4af620ffd6e3af4",
+	"md5": "8a99ce5c3a63170fde7d8c1ef54c83e6",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"name": "i:/hlsdk/playermodels/player/Punisher/Punisher.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -692,7 +692,7 @@
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "punisher.BMP",
+			"name": "Remap0_000_128_191.bmp",
 			"width": 256
 		}
 	],
