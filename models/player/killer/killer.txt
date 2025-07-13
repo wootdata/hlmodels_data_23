@@ -1,0 +1,11 @@
+=============================================
+Installation : Unzip the contents of this file into your HalfLife/Valve/Models/Player/killer  folder. Then simply select the skin from the Multiplayer Customisation option within the game.
+=============================================
+Skin Name        : Killer
+Author           : [GLC]Omega
+E-Mail           : rhys.davis@btinternet.com
+Website          : http://prophetsplace.webjump.com
+Editors used     : pains shop pro 5, Wavelength Skin Editing Tutorial,                  
+Additonal Thanks : MrPain for creating the best clan on Wireplay -The Gun lovin criminals. 
+==============================================
+           Notes : If you wish to use this for any CD compilations or for a clan skin or something like that please ask me first and if it's for a magazine or CD etc please send me a copy. 

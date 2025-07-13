@@ -1,0 +1,13 @@
+Skinner: [DADS]s|inger
+Skin Name: DADS-team
+Model: Limp
+Date: September 10, 2001
+
+Character Info:
+This skin was created for the DADS clan to be used for their matches. 
+
+Install Notes:
+Put the files in a directory called "DADS-team" in your half-life/valve/models/player/DADS-team directory.
+
+[DADS]S|inger
+http://www.dadsclan.com

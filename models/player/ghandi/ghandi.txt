@@ -1,0 +1,44 @@
+* Play Information *
+Title 			: Ghandi Guy Version 1.0
+Filename		: ghandi.zip
+Author			: ShiftK
+Other skins by author	: None yet!
+Email address 		: shiftk@hotmail.com
+Home page		: None
+Description		: Very loosely based on a character from Microsoft's 3D Movie Maker!
+Additional Credits to   : Microsoft, Valve, Wavelength, and my cats Doogie and Bear for keeping me                           company during production.
+
+Single Player           : If ya likes.
+Cooperative Player      : I wish Valve would wake up with this one.
+Deathmatch Player       : It was meant for this!
+CTF2			: Not sure 'cause TFC sucks.
+Difficulty Settings     : Huh?
+New Textures            : Well, duh!
+CD Track                : I like track 4 and 11, why?
+
+* Construction *
+Base			: Gordon Freeman a.k.a. The Method Man
+Editor(s) used          : Model Viewer 2.1, Adobe Photoshop 5.0
+Compile Machine		: Pentium II 400 / 128MB SDRAM / Voodoo 2
+Compile time		: Uhh, real quick!
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+
+
+
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this skin as a base to build additional skins. 
+
+You MUST NOT distribute this skin UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This MDL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

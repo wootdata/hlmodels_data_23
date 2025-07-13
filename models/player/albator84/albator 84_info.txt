@@ -1,0 +1,34 @@
+-----------------------------------------------
+        [SSX] - Albator 84 - Clanskin
+-----------------------------------------------
+
+Release    : 16th May 2k2
+Description: Albator 84 r0xx0r Skin
+
+Author     : |SSX|-AlBat0r-
+EMail      : Albator84@mail.be
+
+-----------------------------------------------
+
+Put these files in your Half-Life directory in
+valve\models\player\albator84
+
+-----------------------------------------------
+
+Check our Clanpage @  http://www.albator84.tk/
+
+-----------------------------------------------
+
+The Models was made with the [HoP] Clan Model
+     All credits are to [HoP] Clan
+
+-----------------------------------------------
+
+Author     : [HoP]Chaser
+EMail      : HoP.Chaser@gmx.de
+
+-----------------------------------------------
+
+          http://www.hop-clan.com/
+
+-----------------------------------------------
