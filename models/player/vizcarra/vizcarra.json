@@ -58,6 +58,7 @@
 			"name": "fx"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -92,6 +93,7 @@
 			"type": 8
 		}
 	],
+	"date": 1701057249,
 	"events": [
 		{
 			"event": 2001,
@@ -201,7 +203,11 @@
 	],
 	"id": 1414743113,
 	"md5": "151ac856836284a9f650929b39a0f1da",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Vizcarra.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -161,6 +162,7 @@
 			"type": 8
 		}
 	],
+	"date": 1653238437,
 	"events": [
 		{
 			"event": 2001,
@@ -270,7 +272,11 @@
 	],
 	"id": 1414743113,
 	"md5": "09d3f31b3e1e6af6d6a6404f7104b538",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Aqua.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

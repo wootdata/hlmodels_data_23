@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1443345776,
 	"events": [
 		{
 			"event": 2001,
@@ -190,7 +192,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a855ba6fe1eda8f387fe5a014871cc6b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gena.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

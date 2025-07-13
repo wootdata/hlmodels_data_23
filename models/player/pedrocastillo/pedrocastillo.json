@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1621831177,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "03b169918a6f33d200e148a80dffc213",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "pedroCastillo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
