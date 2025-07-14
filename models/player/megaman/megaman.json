@@ -135,6 +135,7 @@
 	"md5": "2777529633b5f303f474d82b69186976",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "/games/hl/sdk/playermodels/mmx.mdl",
 	"preview": true,
 	"readme": true,

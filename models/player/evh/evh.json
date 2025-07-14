@@ -175,6 +175,7 @@
 	"md5": "f9b51989512f15d4d8b76e127ecb7cb4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/evh/evh.mdl",
 	"preview": true,
 	"readme": false,

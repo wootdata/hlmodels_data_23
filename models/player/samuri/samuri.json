@@ -175,6 +175,7 @@
 	"md5": "8d41958f8b7cb9d744f0295fc94f0e50",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/samuri/samuri.mdl",
 	"preview": true,
 	"readme": false,

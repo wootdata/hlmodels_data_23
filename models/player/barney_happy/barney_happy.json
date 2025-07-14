@@ -180,6 +180,7 @@
 	"md5": "7a9fb828e1d28dc90089761b80478034",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/barney/barney.mdl",
 	"preview": true,
 	"readme": false,

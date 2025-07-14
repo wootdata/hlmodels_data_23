@@ -175,6 +175,7 @@
 	"md5": "adb4b9007e45a08d2edf1bc3a344c2df",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/buttercup/buttercup.mdl",
 	"preview": true,
 	"readme": false,

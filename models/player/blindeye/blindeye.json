@@ -175,6 +175,7 @@
 	"md5": "e9f5210e79e9be974d3cb3e7577019a1",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Prisoner/Prisoner.mdl",
 	"preview": false,
 	"readme": false,

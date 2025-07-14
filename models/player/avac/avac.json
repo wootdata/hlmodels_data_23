@@ -175,6 +175,7 @@
 	"md5": "a75fe6c0a15c4fb7cda863a0f28005c7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/avac/avac.mdl",
 	"preview": true,
 	"readme": false,

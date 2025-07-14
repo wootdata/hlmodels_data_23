@@ -175,6 +175,7 @@
 	"md5": "38e2ee6b71f2173f66d70eb024705495",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Thor/Thor.mdl",
 	"preview": true,
 	"readme": false,
