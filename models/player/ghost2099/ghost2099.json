@@ -178,7 +178,7 @@
 	"modid": 2,
 	"name": "D:\\Jeux\\Half-Life\\valve\\models\\Ghost2099\\Ghost2099.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
