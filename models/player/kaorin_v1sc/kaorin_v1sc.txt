@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kaorin
+Source Model Hash : c0655f263a21682116e193e1bdab88fe
+Source Model Date : 1710626647 (2024/03/16)
+
+Ported Model Name : kaorin_v1sc
+Ported Model Hash : 882eb8d706193b765c230cab97f91cd5
+Ported Model Date : 1752491872 (2025/07/14)

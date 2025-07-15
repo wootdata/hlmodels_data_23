@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : grunthelmet2
+Source Model Hash : 711d4270effa7f77806e0357658ef6d2
+Source Model Date : 1265226281 (2010/02/03)
+
+Ported Model Name : grunthelmet2_v1sc
+Ported Model Hash : fe9a42b10c829b5ec3db9e10ebd8c6ec
+Ported Model Date : 1752491742 (2025/07/14)

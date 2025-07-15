@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : leon_con_cazadora_v2
+Source Model Hash : 28a706de1400a2b6de4467dd8c49b2d4
+Source Model Date : 1583565254 (2020/03/06)
+
+Ported Model Name : leon_con_cazadora_v2sc
+Ported Model Hash : e600378f0897a55c98e0c69b5d5506af
+Ported Model Date : 1752491947 (2025/07/14)

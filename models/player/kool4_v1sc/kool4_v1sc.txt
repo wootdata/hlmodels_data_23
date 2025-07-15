@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kool4
+Source Model Hash : 17689cf5c546685af699bb85ab54a076
+Source Model Date : 1263495878 (2010/01/14)
+
+Ported Model Name : kool4_v1sc
+Ported Model Hash : 6220e99d6a0356c7ab1d1312d422bfe7
+Ported Model Date : 1752491909 (2025/07/14)

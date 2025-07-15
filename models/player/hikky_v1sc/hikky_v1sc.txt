@@ -1,0 +1,18 @@
+ヒッキーがいないみたいだから、uboa5を改変して作ってみた。
+
+by Shinkichi
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hikky
+Source Model Hash : c8a7516b11d900371a1fa40122b77c8a
+Source Model Date : 1240740514 (2009/04/26)
+
+Ported Model Name : hikky_v1sc
+Ported Model Hash : 6e3564503f7737b9ce57d85fdc71305c
+Ported Model Date : 1752491794 (2025/07/14)

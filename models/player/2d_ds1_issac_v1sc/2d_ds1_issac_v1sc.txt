@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_ds1_issac
+Source Model Hash : d874b149b6663d2102936aa8cc3b1568
+Source Model Date : 1542290250 (2018/11/15)
+
+Ported Model Name : 2d_ds1_issac_v1sc
+Ported Model Hash : 2b0a92a74ba3d23e18ee80cf29b2150f
+Ported Model Date : 1752491306 (2025/07/14)

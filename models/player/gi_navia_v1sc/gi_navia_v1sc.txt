@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_navia
+Source Model Hash : 225dbc7335457092f284225026f08bf5
+Source Model Date : 1719238954 (2024/06/24)
+
+Ported Model Name : gi_navia_v1sc
+Ported Model Hash : a3809cce952ed68e7293ee4632690a2a
+Ported Model Date : 1752491723 (2025/07/14)

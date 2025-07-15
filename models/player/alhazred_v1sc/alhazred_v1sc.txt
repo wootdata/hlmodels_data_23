@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alhazred
+Source Model Hash : 750fb43beb214b1b903c958fef511455
+Source Model Date : 1433585599 (2015/06/06)
+
+Ported Model Name : alhazred_v1sc
+Ported Model Hash : 57ff92a82b1d51fcfb3534ced1ad055a
+Ported Model Date : 1752491352 (2025/07/14)

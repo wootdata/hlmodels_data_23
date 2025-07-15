@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scell
+Source Model Hash : 1c434f39814fba4751c61538fa4a67e4
+Source Model Date : 1269799489 (2010/03/28)
+
+Ported Model Name : scell_v1sc
+Ported Model Hash : b5fe4ba5c4f413293ce9fc67144085d9
+Ported Model Date : 1752492244 (2025/07/14)

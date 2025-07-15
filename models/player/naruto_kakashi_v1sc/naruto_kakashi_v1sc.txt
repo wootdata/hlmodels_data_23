@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : naruto_kakashi
+Source Model Hash : 5471bf44c56f24bfffc06b25118f88bf
+Source Model Date : 1236390778 (2009/03/06)
+
+Ported Model Name : naruto_kakashi_v1sc
+Ported Model Hash : 41b8c93d310cf21fefd4dc04021db784
+Ported Model Date : 1752492069 (2025/07/14)

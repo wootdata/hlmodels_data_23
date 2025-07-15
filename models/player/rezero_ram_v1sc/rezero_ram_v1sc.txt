@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rezero_ram
+Source Model Hash : 41316f0a256bc9c40c33ff6b41253ba8
+Source Model Date : 1469318900 (2016/07/23)
+
+Ported Model Name : rezero_ram_v1sc
+Ported Model Hash : 38df7805cfeb1006d7355af8e5cf7bf1
+Ported Model Date : 1752492207 (2025/07/14)

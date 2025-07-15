@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : goku_ultra_instinct
+Source Model Hash : 10e749c1eb5ebc3a588341b9436437c1
+Source Model Date : 1539684160 (2018/10/16)
+
+Ported Model Name : goku_ultra_inst_v1sc
+Ported Model Hash : 194e99a033a9057d172bcb072ef38138
+Ported Model Date : 1752491732 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wolverine420
+Source Model Hash : 243b7661dde494df41ab1191f02f8f21
+Source Model Date : 1591341903 (2020/06/05)
+
+Ported Model Name : wolverine420_v1sc
+Ported Model Hash : ec98bbd04ef54d421a1f1a55e1d7a7cc
+Ported Model Date : 1752492511 (2025/07/14)

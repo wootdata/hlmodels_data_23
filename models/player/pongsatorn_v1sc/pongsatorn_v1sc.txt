@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pongsatorn
+Source Model Hash : bfe00270e7e0eea6211f7983b2e3581b
+Source Model Date : 1704718609 (2024/01/08)
+
+Ported Model Name : pongsatorn_v1sc
+Ported Model Hash : df750bd355f068a332ad6d1c6bceaab9
+Ported Model Date : 1752492162 (2025/07/14)

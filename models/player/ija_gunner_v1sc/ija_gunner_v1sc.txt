@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ija_gunner
+Source Model Hash : 09e4cbe485a091cf3606f421755fae64
+Source Model Date : 1230746250 (2008/12/31)
+
+Ported Model Name : ija_gunner_v1sc
+Ported Model Hash : 150e7d69b82d2077ebf22f8a17b89f5f
+Ported Model Date : 1752491843 (2025/07/14)

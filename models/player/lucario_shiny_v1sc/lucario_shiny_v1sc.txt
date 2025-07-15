@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lucario_shiny
+Source Model Hash : 2d9e57001bd3252f9d3e60b5f40a03cd
+Source Model Date : 1598913204 (2020/08/31)
+
+Ported Model Name : lucario_shiny_v1sc
+Ported Model Hash : ee2a35cbb9c0190f8872ec9543aeeda5
+Ported Model Date : 1752491972 (2025/07/14)

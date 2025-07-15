@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gs_moeglados
+Source Model Hash : 4f4c2bf81f0d91bcfee13e626ad1037c
+Source Model Date : 1457029128 (2016/03/03)
+
+Ported Model Name : gs_moeglados_v1sc
+Ported Model Hash : 2c7e657567393eb7a1df695842ad4eec
+Ported Model Date : 1752491750 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pepe_hazmat
+Source Model Hash : 3371c541b50725d82923eeb99adc4ad2
+Source Model Date : 1584315079 (2020/03/15)
+
+Ported Model Name : pepe_hazmat_v1sc
+Ported Model Hash : e49678d4e4b721f897d3263ae5316547
+Ported Model Date : 1752492154 (2025/07/14)

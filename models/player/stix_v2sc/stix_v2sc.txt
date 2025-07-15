@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stix_v2
+Source Model Hash : c08b8514c0a6a9f5bfd6e6751168d38b
+Source Model Date : 1591328021 (2020/06/04)
+
+Ported Model Name : stix_v2sc
+Ported Model Hash : d5cc4b4a80fa9ffc82930e0f15a8a807
+Ported Model Date : 1752492347 (2025/07/14)

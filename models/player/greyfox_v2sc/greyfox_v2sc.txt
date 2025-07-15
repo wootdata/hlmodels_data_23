@@ -1,0 +1,48 @@
+Skinner: Bamphalas
+Skin Name: GreyFox
+Model Used: Punisher by Brian "EvilBastard" Collins
+Date 7-29-99
+
+This is the eighth of my weekly skins available at my site.  http:\\i.am\bamphalas\
+Special thanks to Brian "EvilBastard" Collins for the creation of the very cool punisher model.  Finally, a male model without any of the extra bulk from clothing accessories (backpack, shoulder pads, etc.)  I had to jump on the creation of the Ninja from the Metal Gear Solid game.  I hope you guys like him!  Let me know what you think at my skins forum!
+
+Other Skins by Bamphalas:
+Bad_Girl
+Lynch
+Janitor
+Sentinel
+Cobra1
+Sentinel2
+MD Girl
+Gamer
+GibbedGina
+Fisherman
+Cobra2
+Sssron
+Pumped
+Veteran
+Beachhead
+Alien Infection
+Firefly
+Mystique
+
+Clan Skins by Bamphalas:
+Ranger [D@M]
+Surgeon [iZO]
+Infiltrator [4FW]
+ibt [IBT]
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : greyfox_v2
+Source Model Hash : 3d286af54332d34fce93b56a69b09597
+Source Model Date : 1583884244 (2020/03/10)
+
+Ported Model Name : greyfox_v2sc
+Ported Model Hash : cf269af12024962eff3037f99726a54e
+Ported Model Date : 1752491741 (2025/07/14)

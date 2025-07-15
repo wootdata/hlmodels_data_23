@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : th_sniper
+Source Model Hash : 07260bc5d439a9c9cdf17a6bda486a3d
+Source Model Date : 1632238614 (2021/09/21)
+
+Ported Model Name : th_sniper_v1sc
+Ported Model Hash : 5004a99cd2aa5da2dc4607dd3fb55961
+Ported Model Date : 1752492421 (2025/07/14)

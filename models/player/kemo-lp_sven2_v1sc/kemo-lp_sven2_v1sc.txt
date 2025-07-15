@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kemo-lp_sven2
+Source Model Hash : ace41547d569db2133e635a6c0663172
+Source Model Date : 1712921145 (2024/04/12)
+
+Ported Model Name : kemo-lp_sven2_v1sc
+Ported Model Hash : de8bf7c4251239fdf86d03374151f371
+Ported Model Date : 1752491880 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sc_jungle_v2
+Source Model Hash : 8ef491441c33b95126693211c07a34f7
+Source Model Date : 1541468345 (2018/11/05)
+
+Ported Model Name : sc_jungle_v2sc
+Ported Model Hash : 9cd9db669678eec5588ac06186b00118
+Ported Model Date : 1752492253 (2025/07/14)

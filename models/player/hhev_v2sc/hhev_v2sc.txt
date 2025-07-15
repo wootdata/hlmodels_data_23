@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hhev_v2
+Source Model Hash : 2404923a4ea1eee14c192d31873886b9
+Source Model Date : 1583892916 (2020/03/10)
+
+Ported Model Name : hhev_v2sc
+Ported Model Hash : 80bc5827d57256fb108cd815990a960d
+Ported Model Date : 1752491793 (2025/07/14)

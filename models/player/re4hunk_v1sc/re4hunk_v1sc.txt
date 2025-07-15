@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re4hunk
+Source Model Hash : ee97e14572acd637a5f351e34dbc73c3
+Source Model Date : 1236271824 (2009/03/05)
+
+Ported Model Name : re4hunk_v1sc
+Ported Model Hash : b8a28483faa6bd1ac011f331f5dc634f
+Ported Model Date : 1752492192 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : galinha
+Source Model Hash : 5bb8372459886ea9db4ed6da2823ba76
+Source Model Date : 1579695954 (2020/01/22)
+
+Ported Model Name : galinha_v1sc
+Ported Model Hash : 7022a67f913837e30618291129d2befc
+Ported Model Date : 1752491670 (2025/07/14)

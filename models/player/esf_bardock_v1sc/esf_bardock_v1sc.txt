@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : esf_bardock
+Source Model Hash : 526e2a2415b03d06d6787bab60485f0c
+Source Model Date : 1426932479 (2015/03/21)
+
+Ported Model Name : esf_bardock_v1sc
+Ported Model Hash : fd74a2d8a47e5613953c10eab7be30db
+Ported Model Date : 1752491636 (2025/07/14)

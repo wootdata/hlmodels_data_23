@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tsmod_merc
+Source Model Hash : b9da8e78e4702cbd86a29535b906b895
+Source Model Date : 1736149312 (2025/01/05)
+
+Ported Model Name : tsmod_merc_v1sc
+Ported Model Hash : f89b943ab3b44c0fbc1f1de642c603db
+Ported Model Date : 1752492462 (2025/07/14)

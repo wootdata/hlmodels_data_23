@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nv_minion
+Source Model Hash : 1046724cc6c8beacfb622f9e0c05f6e4
+Source Model Date : 1743876440 (2025/04/05)
+
+Ported Model Name : nv_minion_v1sc
+Ported Model Hash : 347b8f76e354f4cf5c198b1f2bfb1a4b
+Ported Model Date : 1752492109 (2025/07/14)

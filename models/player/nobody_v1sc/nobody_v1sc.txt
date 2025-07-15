@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nobody
+Source Model Hash : a269a270f7004e74deedc0a65e95cf4a
+Source Model Date : 1262057422 (2009/12/28)
+
+Ported Model Name : nobody_v1sc
+Ported Model Hash : e1770256345d393dc98b6ab87deb1e39
+Ported Model Date : 1752492097 (2025/07/14)

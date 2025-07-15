@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : red_fox2
+Source Model Hash : cbe16936ba05a492426d78a4d52b5079
+Source Model Date : 1545590394 (2018/12/23)
+
+Ported Model Name : red_fox2_v1sc
+Ported Model Hash : f49d8fc6a6f489d4e5f726c8365f7f94
+Ported Model Date : 1752492196 (2025/07/14)

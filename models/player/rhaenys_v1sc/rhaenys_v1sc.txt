@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rhaenys
+Source Model Hash : 05261ade6060d8f30273bdc4a897bb6a
+Source Model Date : 1343654243 (2012/07/30)
+
+Ported Model Name : rhaenys_v1sc
+Ported Model Hash : 07a1778dc3eea4c65c5352c63fcd50fc
+Ported Model Date : 1752492215 (2025/07/14)

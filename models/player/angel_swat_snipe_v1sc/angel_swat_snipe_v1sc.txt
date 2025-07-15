@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : angel_swat_sniperb
+Source Model Hash : 7bc1ac51f234ed01b87eca656570867f
+Source Model Date : 1541982026 (2018/11/11)
+
+Ported Model Name : angel_swat_snipe_v1sc
+Ported Model Hash : e6f40015fd832ee21f1ccc0a9e3e949c
+Ported Model Date : 1752491362 (2025/07/14)

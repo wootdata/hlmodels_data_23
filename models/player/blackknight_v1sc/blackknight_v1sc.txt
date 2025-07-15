@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blackknight
+Source Model Hash : 2c8b0c162e7ef42a5cee11adca50e184
+Source Model Date : 1267893520 (2010/03/06)
+
+Ported Model Name : blackknight_v1sc
+Ported Model Hash : b67c955c9af71601b31095c2d47015a9
+Ported Model Date : 1752491433 (2025/07/14)

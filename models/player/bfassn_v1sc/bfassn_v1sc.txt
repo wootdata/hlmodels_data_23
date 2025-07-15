@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bfassn
+Source Model Hash : e2481a1bb65eb0d5a579f60c9268999f
+Source Model Date : 1262010140 (2009/12/28)
+
+Ported Model Name : bfassn_v1sc
+Ported Model Hash : 76d4e9f432d1b7a85aabc6e34d0684b3
+Ported Model Date : 1752491426 (2025/07/14)

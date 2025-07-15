@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rabid
+Source Model Hash : a43ed54456223d2da195335385e242cd
+Source Model Date : 1269243557 (2010/03/22)
+
+Ported Model Name : rabid_v1sc
+Ported Model Hash : 1e196afbecdc0d6b161bb8b7fca185b9
+Ported Model Date : 1752492184 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : crasher2_v2
+Source Model Hash : 0894adf4270914add8c66056ff175171
+Source Model Date : 1582978356 (2020/02/29)
+
+Ported Model Name : crasher2_v2sc
+Ported Model Hash : b2c96a29a350615b1ddeb15ba87b8c0a
+Ported Model Date : 1752491534 (2025/07/14)

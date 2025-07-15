@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : monoko1_v3
+Source Model Hash : 94483dfe77c407dc146a1d36967376b7
+Source Model Date : 1591247017 (2020/06/03)
+
+Ported Model Name : monoko1_v3sc
+Ported Model Hash : eafa5c66e08d49cd868b7ebf22cce8ca
+Ported Model Date : 1752492040 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : angel_mdl_v2
+Source Model Hash : 5f49aa840e50388eb0190671b294b8a1
+Source Model Date : 1584075935 (2020/03/12)
+
+Ported Model Name : angel_mdl_v2sc
+Ported Model Hash : 9ea98ccdf636dd1d7b9dd5ec3a61df92
+Ported Model Date : 1752491361 (2025/07/14)

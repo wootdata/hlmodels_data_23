@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mgs3_ocelot
+Source Model Hash : ce8f76bbfdef0fa6a75fcf9994f52bc6
+Source Model Date : 1641153033 (2022/01/02)
+
+Ported Model Name : mgs3_ocelot_v1sc
+Ported Model Hash : dcc5b1d9eb13966becaf2d071a298dd9
+Ported Model Date : 1752492008 (2025/07/14)

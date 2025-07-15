@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nsmarine_isc
+Source Model Hash : bcb39b02477416b0e542725efdbd1022
+Source Model Date : 1719452877 (2024/06/26)
+
+Ported Model Name : nsmarine_isc_v1sc
+Ported Model Hash : abcb359a5424807397b2a9750edc78da
+Ported Model Date : 1752492103 (2025/07/14)

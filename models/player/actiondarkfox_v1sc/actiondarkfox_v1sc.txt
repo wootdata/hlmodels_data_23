@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : actiondarkfox
+Source Model Hash : 99037656f628c23456388cbedc6d13f8
+Source Model Date : 1430145301 (2015/04/27)
+
+Ported Model Name : actiondarkfox_v1sc
+Ported Model Hash : e5cdc3f47fb7d46102969d5accd5c79e
+Ported Model Date : 1752491330 (2025/07/14)

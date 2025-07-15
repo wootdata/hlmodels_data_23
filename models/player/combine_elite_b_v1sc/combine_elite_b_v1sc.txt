@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : combine_elite_beta
+Source Model Hash : c70b81f34189c2da788a70711a89f2ff
+Source Model Date : 1457967816 (2016/03/14)
+
+Ported Model Name : combine_elite_b_v1sc
+Ported Model Hash : 05d9fa1a9f9f0bb573d86586cfa36807
+Ported Model Date : 1752491510 (2025/07/14)

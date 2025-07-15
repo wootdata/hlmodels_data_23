@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hdn_neppugya-maid
+Source Model Hash : 9e6d9b4d615c49a11b61a034a63a7677
+Source Model Date : 1543540422 (2018/11/29)
+
+Ported Model Name : hdn_neppugya-maid_v1sc
+Ported Model Hash : aaa51164c1ba0a8b37b8fcef1a39306d
+Ported Model Date : 1752491776 (2025/07/14)

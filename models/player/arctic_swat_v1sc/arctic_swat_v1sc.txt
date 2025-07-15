@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : arctic_swat
+Source Model Hash : e6f831dafe5a97af83aafbe52bcf4c93
+Source Model Date : 1424376125 (2015/02/19)
+
+Ported Model Name : arctic_swat_v1sc
+Ported Model Hash : dd558301b9800c1c2f3442ace205999e
+Ported Model Date : 1752491366 (2025/07/14)

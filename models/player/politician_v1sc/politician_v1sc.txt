@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : politician
+Source Model Hash : 597d0a40d28f31605e93059b48dea818
+Source Model Date : 1265805480 (2010/02/10)
+
+Ported Model Name : politician_v1sc
+Ported Model Hash : cc64633268818d999f64196baf2a89da
+Ported Model Date : 1752492162 (2025/07/14)

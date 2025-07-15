@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekomata_armor_d_v2
+Source Model Hash : 20942610b7a9f98c2ddbdda54e646fe2
+Source Model Date : 1584088857 (2020/03/13)
+
+Ported Model Name : nekomata_armor_d_v2sc
+Ported Model Hash : ab3f63fe7c4fa79b58e805287fa7aa62
+Ported Model Date : 1752492079 (2025/07/14)

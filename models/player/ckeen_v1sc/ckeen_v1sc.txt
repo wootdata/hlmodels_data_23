@@ -1,0 +1,16 @@
+Ckeen by Tuesday's Avenger based on Commander Keen
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ckeen
+Source Model Hash : d0a08f7aead77e54d56c8b51ed5d8617
+Source Model Date : 1296247510 (2011/01/28)
+
+Ported Model Name : ckeen_v1sc
+Ported Model Hash : 9d23317012843afa1093f2d06df796b9
+Ported Model Date : 1752491480 (2025/07/14)

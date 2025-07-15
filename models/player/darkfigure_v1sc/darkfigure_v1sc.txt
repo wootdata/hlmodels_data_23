@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darkfigure
+Source Model Hash : c63e4bd52e5ded64cd99938a101d068c
+Source Model Date : 1452288767 (2016/01/08)
+
+Ported Model Name : darkfigure_v1sc
+Ported Model Hash : 12350f2942f1ce95d5fa5b7dce53249a
+Ported Model Date : 1752491579 (2025/07/14)

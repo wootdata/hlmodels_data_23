@@ -1,0 +1,22 @@
+Name of model: HL Recon (Commander) 
+Model filename:[b]recon[/b]
+Model Type: Player (SC3 animated) 
+Drawn Polys: 3,016
+Original Mesh: Ambient.Impact
+Player Conversion: R@p7oR
+SC3 Animations: R@p7oR
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hell_recon
+Source Model Hash : fd5b63abbf66cf0494beb5e4681ea173
+Source Model Date : 1268807293 (2010/03/16)
+
+Ported Model Name : hell_recon_v1sc
+Ported Model Hash : 86908179316b2e9d4014b9e2e7b97339
+Ported Model Date : 1752491782 (2025/07/14)

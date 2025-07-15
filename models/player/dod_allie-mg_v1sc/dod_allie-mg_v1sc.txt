@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dod_allie-mg
+Source Model Hash : 8a629bdb0ff4ca5cd67deb077cca416e
+Source Model Date : 1446338276 (2015/10/31)
+
+Ported Model Name : dod_allie-mg_v1sc
+Ported Model Hash : 17f5d59bd528af4b89fcf7cc08d1c55e
+Ported Model Date : 1752491610 (2025/07/14)

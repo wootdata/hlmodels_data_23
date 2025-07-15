@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dv_ginahc
+Source Model Hash : 5515b1987bb5bf380624ca9a91b5bd28
+Source Model Date : 1709095446 (2024/02/27)
+
+Ported Model Name : dv_ginahc_v1sc
+Ported Model Hash : b2bb190f136e8c96e6d6a1fef4380933
+Ported Model Date : 1752491626 (2025/07/14)

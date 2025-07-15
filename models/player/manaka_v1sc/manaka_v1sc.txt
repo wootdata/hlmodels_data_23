@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : manaka
+Source Model Hash : b12484786234b9d48f82449ccdf5127c
+Source Model Date : 1548371901 (2019/01/24)
+
+Ported Model Name : manaka_v1sc
+Ported Model Hash : 401289d9bb7749d5173fa833293bdc56
+Ported Model Date : 1752491983 (2025/07/14)

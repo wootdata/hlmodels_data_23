@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mazingerz
+Source Model Hash : d28627754b39cbdf020840519f29749b
+Source Model Date : 1506897840 (2017/10/01)
+
+Ported Model Name : mazingerz_v1sc
+Ported Model Hash : b1aacd1698e6ebbb16b03adbfad86619
+Ported Model Date : 1752491995 (2025/07/14)

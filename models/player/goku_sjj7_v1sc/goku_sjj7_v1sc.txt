@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : goku_sjj7
+Source Model Hash : 26ff070f47953678fbd578d094656d02
+Source Model Date : 1614642689 (2021/03/01)
+
+Ported Model Name : goku_sjj7_v1sc
+Ported Model Hash : 4601f5d10dc6ad30162d68ac51a4dbaa
+Ported Model Date : 1752491732 (2025/07/14)

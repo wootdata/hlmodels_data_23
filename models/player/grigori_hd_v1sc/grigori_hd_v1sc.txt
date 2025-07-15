@@ -1,0 +1,41 @@
+XenoAisam
+Romka
+Lt C
+Nirrti
+Mosquito
+Gmod4Ever
+Aeon
+peterboi
+tunderera
+Moi
+ShoTGuNGuY49
+calle7113
+Patrik "DoktorAce" Liljecratz
+Sven co-op 2 team
+CosmicBreak
+CyberStep, Inc.
+Animasa
+Team Ruchiru
+Master circuit
+chiyoki
+Sam Za Nemesis
+M4xf1v3
+Renard
+SHL Team
+VALVe
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : grigori_hd
+Source Model Hash : 4e19ec34932257edaf12f4da36582996
+Source Model Date : 1465607265 (2016/06/10)
+
+Ported Model Name : grigori_hd_v1sc
+Ported Model Hash : 906cd95484696a79762160fdeb2477c0
+Ported Model Date : 1752491741 (2025/07/14)

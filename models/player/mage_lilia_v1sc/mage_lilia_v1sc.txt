@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mage_lilia
+Source Model Hash : 331c26323eeeb61fa66aa52d2d96f047
+Source Model Date : 1616735782 (2021/03/25)
+
+Ported Model Name : mage_lilia_v1sc
+Ported Model Hash : 3c03c41bc581cf735d944c888cf8e76a
+Ported Model Date : 1752491982 (2025/07/14)

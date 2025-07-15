@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : axisassault
+Source Model Hash : e67996546d0a294a0f422ccc8548b7c0
+Source Model Date : 1264599312 (2010/01/27)
+
+Ported Model Name : axisassault_v1sc
+Ported Model Hash : d8aa2b7aa068884b52630baea36a8502
+Ported Model Date : 1752491391 (2025/07/14)

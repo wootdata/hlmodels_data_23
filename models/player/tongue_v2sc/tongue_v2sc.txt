@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tongue_v2
+Source Model Hash : 4eef23c0b987a9ca874894fb8a77e971
+Source Model Date : 1582939722 (2020/02/28)
+
+Ported Model Name : tongue_v2sc
+Ported Model Hash : f5ac7af0da26aaa4e30ea981b3bb664f
+Ported Model Date : 1752492429 (2025/07/14)

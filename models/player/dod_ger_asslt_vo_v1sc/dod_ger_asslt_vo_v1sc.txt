@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dod_german_assault_vo
+Source Model Hash : e760e946bc23cd86add0523494a196b4
+Source Model Date : 1702154556 (2023/12/09)
+
+Ported Model Name : dod_ger_asslt_vo_v1sc
+Ported Model Hash : 1457a21cb0e04671aa72d461026d7cc8
+Ported Model Date : 1752491615 (2025/07/14)

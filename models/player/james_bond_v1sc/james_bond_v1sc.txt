@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : james_bond
+Source Model Hash : 2ce48cabd32c5f102dc4428f468297b8
+Source Model Date : 1263824634 (2010/01/18)
+
+Ported Model Name : james_bond_v1sc
+Ported Model Hash : 12afd9f87fe55c610e41bd67eb7e51c4
+Ported Model Date : 1752491858 (2025/07/14)

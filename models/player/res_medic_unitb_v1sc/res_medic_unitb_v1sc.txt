@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_succ_medic_unitb
+Source Model Hash : d874dcf2079e48168fc16d68e21fdde7
+Source Model Date : 1523923631 (2018/04/16)
+
+Ported Model Name : res_medic_unitb_v1sc
+Ported Model Hash : 2b98fe95810dc0343343b4605b5ab307
+Ported Model Date : 1752492212 (2025/07/14)

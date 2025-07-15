@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blackface
+Source Model Hash : f16731b3a5975dba44a0fb464e569d1d
+Source Model Date : 1585110672 (2020/03/24)
+
+Ported Model Name : blackface_v1sc
+Ported Model Hash : c34ac32c64df7860ca89d2da534aefd3
+Ported Model Date : 1752491432 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cuervosc_v2
+Source Model Hash : 627197ea9d61428e93af475cd0a3a511
+Source Model Date : 1584087966 (2020/03/13)
+
+Ported Model Name : cuervosc_v2sc
+Ported Model Hash : fb8dbfe59512c85da9e8b18fd58c7a5f
+Ported Model Date : 1752491569 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bogdanoff
+Source Model Hash : 1362a0273dae9cfe46b9e92237657d8b
+Source Model Date : 1610584223 (2021/01/13)
+
+Ported Model Name : bogdanoff_v1sc
+Ported Model Hash : 01dfe3ad22c03a5a615d8d096ce195df
+Ported Model Date : 1752491442 (2025/07/14)

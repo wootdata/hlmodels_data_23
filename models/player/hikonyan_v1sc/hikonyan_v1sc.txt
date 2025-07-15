@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hikonyan
+Source Model Hash : a672166de93f9de2abcb3b88e1c44573
+Source Model Date : 1261533393 (2009/12/22)
+
+Ported Model Name : hikonyan_v1sc
+Ported Model Hash : e770ee5d9fc369677ebfe35d303ec392
+Ported Model Date : 1752491794 (2025/07/14)

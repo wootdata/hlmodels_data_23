@@ -1,0 +1,23 @@
+Credit:
+ .mqo modeling by milchio
+
+ .smd convert by takedeppo.50cal ....(^^;)b yay
+
+////////////////////////////////////////////////
+http://milcho.blog55.fc2.com/
+êªçÏé“ÅFÇ›ÇÈÇøÇ®
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_sanae
+Source Model Hash : 0210a2db3736975a67586a39e627c260
+Source Model Date : 1464008252 (2016/05/23)
+
+Ported Model Name : touhou_sanae_v1sc
+Ported Model Hash : 00b33f4fee8e6a6f1c23ec5de0ba1078
+Ported Model Date : 1752492445 (2025/07/14)

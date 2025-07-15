@@ -1,0 +1,26 @@
+For starters, I want to say that this model is not of my creation. 
+Any models shown by InkBlot or Zollgro before the 20th of august, 
+2000, are reskins of previous models. I just wanted to say that so 
+as I don't feel any guilt for posting them. Well, Rainbow Pixie is 
+my second Pixie skin based on the ccsakura model. In the model 
+viewer the colors were perfect, but in the game I found that some 
+were lost, and replaced. No big deal, really, it just looks kinda 
+different than I thought it would. I hope you enjoy it, and if you 
+have any ideas or suggestions, please E-Mail me at 
+pendragon666@worldnet.att.net or leave a review at WON. I do maps 
+and sprays, too. Thank you.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rbpixie_v2
+Source Model Hash : 3b5597ba02c0f5fdb6947af993d523d6
+Source Model Date : 1583375294 (2020/03/04)
+
+Ported Model Name : rbpixie_v2sc
+Ported Model Hash : 5272038bfc925a1ac5c3d7856886cbe7
+Ported Model Date : 1752492190 (2025/07/14)

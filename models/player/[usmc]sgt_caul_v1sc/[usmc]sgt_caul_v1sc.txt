@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : [usmc]sgt_caul
+Source Model Hash : 850249adf15f62ba9c4f740fd512e4a0
+Source Model Date : 1542116780 (2018/11/13)
+
+Ported Model Name : [usmc]sgt_caul_v1sc
+Ported Model Hash : eda8eeacfbb1f1946d3ea0ee401ac7bc
+Ported Model Date : 1752492541 (2025/07/14)

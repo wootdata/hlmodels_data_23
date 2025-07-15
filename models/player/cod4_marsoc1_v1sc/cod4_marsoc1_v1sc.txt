@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod4_marsoc1
+Source Model Hash : e83688681cd07445547d16520777b822
+Source Model Date : 1579695844 (2020/01/22)
+
+Ported Model Name : cod4_marsoc1_v1sc
+Ported Model Hash : ead259bc9b99f7ee8bcfdae7ed63c8d0
+Ported Model Date : 1752491492 (2025/07/14)

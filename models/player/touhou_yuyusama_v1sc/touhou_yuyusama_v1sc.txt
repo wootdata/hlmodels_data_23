@@ -1,0 +1,40 @@
+Credit:
+ .Modeling by Basilico
+
+ .smd convert by takedeppo.50cal ....(^^;)b yay
+
+///////////////////////////////////////////////////////////////////
+
+GTASA用キャラMOD「幽々子リメイク」
+
+製作者：Basilico
+
+無改変での再配布はご遠慮下さい。
+その他の事は、下記ブログをご覧下さい。
+http://genovse.blog13.fc2.com/
+
+【解説】
+以前、ハイヌさんの「レミリアＭＯＤ」をベースに作った
+西行寺幽々子ＭＯＤの、モデル的問題点を修正したリメイク版です。
+見た目的な違いはほとんどありませんが、
+旧版の自分的不満点のいくつかを解消してあります。
+
+おまけとして、見た目の変更が全く無いのも寂しかったので
+緋想天風カラーのＴＸＤ（yuyuko2_oc.txd）をつけてみました。
+お好みで入れ替えてください。
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_yuyusama
+Source Model Hash : 82179d98d93bfae9b536847dd0bde95f
+Source Model Date : 1470474433 (2016/08/06)
+
+Ported Model Name : touhou_yuyusama_v1sc
+Ported Model Hash : a32e6141a7156a0227017fa8b7529eec
+Ported Model Date : 1752492453 (2025/07/14)

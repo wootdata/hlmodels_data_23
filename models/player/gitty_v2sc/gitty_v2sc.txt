@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gitty_v2
+Source Model Hash : 99a3cb12e61512e55616db945b7c5411
+Source Model Date : 1583042934 (2020/02/29)
+
+Ported Model Name : gitty_v2sc
+Ported Model Hash : aba7248f7be71a40a1a6c9cfcc9e58d9
+Ported Model Date : 1752491702 (2025/07/14)

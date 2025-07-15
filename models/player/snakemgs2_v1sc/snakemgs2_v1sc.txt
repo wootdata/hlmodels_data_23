@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : snakemgs2
+Source Model Hash : 6aa7a3a24becbdff252e3fa222fee47b
+Source Model Date : 1230479844 (2008/12/28)
+
+Ported Model Name : snakemgs2_v1sc
+Ported Model Hash : ce5370dc0aa8dfb3f62f925d48e99aef
+Ported Model Date : 1752492285 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_clon3
+Source Model Hash : e8781c4756a6ecde319265393a04d64e
+Source Model Date : 1265724837 (2010/02/09)
+
+Ported Model Name : para_clon3_v1sc
+Ported Model Hash : f08d606bfa35346c1db327a03b484e51
+Ported Model Date : 1752492144 (2025/07/14)
