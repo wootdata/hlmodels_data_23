@@ -21,8 +21,8 @@
 			"models": [
 				{
 					"name": "punisher",
-					"polys": 1804,
-					"verts": 984
+					"polys": 1474,
+					"verts": 766
 				}
 			],
 			"name": "body"
@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1490081471,
+	"date": 1753252193,
 	"events": [
 		{
 			"event": 2001,
@@ -172,12 +172,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "3aff185f5146521490106903387613dd",
+	"md5": "3420d6bca24e7d19e38f5d88c4dbd722",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 2,
-	"name": "C:\\Users\\Administrador\\Desktop\\stawea2\\stawea.mdl",
-	"preview": false,
+	"name": "mp_old_hl.mdl",
+	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
@@ -567,7 +567,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 680296,
+	"size": 632120,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -812,24 +812,6 @@
 			"height": 63,
 			"name": "mp_helmet.bmp",
 			"width": 120
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "saw_world1.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 49,
-			"name": "saw_world2.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 172,
-			"name": "saw_world3.bmp",
-			"width": 20
 		}
 	],
 	"version": 10
