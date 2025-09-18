@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : enigma_ld
+Source Model Hash : 37f39bc82531a607d0b64c6252de2fbb
+Source Model Date : 1754064734 (2025/08/01)
+
+Ported Model Name : enigma_ld_v1sc
+Ported Model Hash : 8f43e2e5e718728ae90881851cdccab5
+Ported Model Date : 1758225735 (2025/09/18)

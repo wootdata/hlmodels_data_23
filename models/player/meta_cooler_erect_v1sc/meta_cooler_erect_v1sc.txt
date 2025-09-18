@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : meta_cooler_erect
+Source Model Hash : 9713119200d12b399a2bd7b9437b4550
+Source Model Date : 1753306728 (2025/07/23)
+
+Ported Model Name : meta_cooler_erect_v1sc
+Ported Model Hash : 7a8e219924a9273a71fd4b76c2fca112
+Ported Model Date : 1758225761 (2025/09/18)

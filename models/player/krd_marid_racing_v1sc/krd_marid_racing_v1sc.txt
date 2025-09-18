@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : krd_marid_racing
+Source Model Hash : 2e929ff938851ae461b35ca416a1ed01
+Source Model Date : 1755887863 (2025/08/22)
+
+Ported Model Name : krd_marid_racing_v1sc
+Ported Model Hash : 304c73396ec46ccbc371a01578234ea2
+Ported Model Date : 1758225759 (2025/09/18)
