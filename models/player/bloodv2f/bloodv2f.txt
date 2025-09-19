@@ -1,0 +1,69 @@
+
+[]~bL00d~[] Model v2.0 (readme)
+
+Visit Blood at:
+http://blood.godsofgaming.com
+
+
+Models created by:
+Bryan:Mountain Dew Patrol
+
+Thank You Bryan! :)
+
+
+Please, only Blood members *wear* our skins on public servers.
+
+
+--------------- Instructions ---------------
+
+
+File name info:
+
+bloodv2f.zip
+
+"name=blood" "version=v2" "sex=m/f"
+
+
+
+Installation:
+
+Please open this folder...
+ 
+\halflife\valve\models\player
+
+
+Inside your "player" folder create a NEW folder which you'll name...
+
+bloodv2f
+
+
+
+Next...
+
+Unzip the contents of bloodv2f.zip into the bloodv2f folder
+
+
+(unzip utility can be found at www.winzip.com)
+
+
+
+That's it, you're done!
+
+You can delete the .zip files
+
+
+
+Note:
+
+To switch models while in the game, open the console and type "model bloodv2f"
+for the female model.
+
+Typing just "model" in the console will tell you what model you're currently wearing!
+
+(no, don't use the quotes " " when typing these commands into the console)
+
+
+
+Onward and Upward!
+
+[]~bL00d~[] Copyright 2001-2002

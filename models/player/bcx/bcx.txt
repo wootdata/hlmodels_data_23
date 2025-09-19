@@ -1,0 +1,16 @@
+Skinner: SlimReapeR
+Skin Name: Clan BCX
+Model Used: A.V.A.C by Def1
+
+This model should only be used by members of the BCX clan. Have this skin installed
+to see them play!
+
+Installation of Plugin
+
+Create a folder called bcx in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+

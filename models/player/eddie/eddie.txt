@@ -1,0 +1,21 @@
+IRON EDDIE V0.5 Deathmatch Model
+3D artist: JAKEL
+Description: IRON MAIDEN'S EDDIE FROM SOMEWHERE IN TIME
+
+logo: sit.bmp put in the logo directory
+
+Make an EDDIE folder in the
+
+\sierra\half-life\valve\models\player folder.
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must be
+deliberately installed by the player.
+
+I'm working on new skins all the time any suggestions let me know at jakel@hotmail.com
+

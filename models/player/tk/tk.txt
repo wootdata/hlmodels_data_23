@@ -1,0 +1,28 @@
+//Bext viewed 800x600, 24bpp, Maximized window :)
+
+Type: 		Half-Life Skin
+Name: 		T.K. (Major K skin)
+Release Date: 	27/04/99
+
+Author:		Seven^3		mvincent@southpoly.ac.nz
+
+Files:		TK.mdl, TK.bmp, and TK.txt
+
+Instructions:	Create a folder <Half-life dir.>\valve\models\player\TK and unzip the
+		files into there.
+
+Info:		I was just playing around with Mdlviewer 2.1, checking out what various models					
+		looked like with chrome skins, and seeing if I could get Major K's hair to hue					
+		shift so I could have an avatar that looks a bit different. The orange/black							
+		chromed hair looked cool, so I did the body in a similar fashion and now she
+		looks like someone from "The Lawnmower Man".
+		If you know how to add hue shifting to chrome textures please let me know.
+		Once I get that sussed, I'll do a better one with my own face texture.
+
+Tools used:	
+	   Texture transfers:	Mdlviewer 2.1
+	   Editing:		MS Paint and Photoshop 5.0
+	   Viewing:		Mdlviewer 2.1 and Half-Life (-dev mode.)
+
+Thanks to: 	Otis, Ascent and Dark Yoda for the MDL viewer, Ian Waugh for the Major K model
+		base, and of course Valve for The Game.
