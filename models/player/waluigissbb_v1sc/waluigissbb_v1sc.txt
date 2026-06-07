@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : waluigissbb
+Source Model Hash : 2f767291d4f720c1e035170dc34ea6b0
+Source Model Date : 1771432986 (2026/02/18)
+
+Ported Model Name : waluigissbb_v1sc
+Ported Model Hash : 7f1fa4b32b892dd8889724c8f5803001
+Ported Model Date : 1780823053 (2026/06/07)

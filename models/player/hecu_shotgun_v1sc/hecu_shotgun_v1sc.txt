@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hecu_shotgun
+Source Model Hash : e65a6245834a1851030a38c7d300bf69
+Source Model Date : 1775305646 (2026/04/04)
+
+Ported Model Name : hecu_shotgun_v1sc
+Ported Model Hash : 4d7b76c41a965bbecd9eed9fc5ac2518
+Ported Model Date : 1780823025 (2026/06/07)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hecu_girl
+Source Model Hash : 97e1e306fbc4f4d2ad8b2081a9a3b608
+Source Model Date : 1770904466 (2026/02/12)
+
+Ported Model Name : hecu_girl_v1sc
+Ported Model Hash : e6740c9090c8c6afa1fff0d8fd256005
+Ported Model Date : 1780823023 (2026/06/07)
